@@ -1,0 +1,6 @@
+[submodule "user-task-ui"]
+	path = user-task-ui
+	url = https://github.com/adnanmamajiwala/user-task-ui.git
+[submodule "user-task-service"]
+	path = user-task-service
+	url = https://github.com/adnanmamajiwala/user-task-service.git
