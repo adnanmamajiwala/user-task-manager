@@ -7,11 +7,11 @@ services:
     restart: always
     image: user-task-api:latest
     ports:
-      - 8080:8080
+      - 9080:8080
   user_task_ui:
     build:
       context: ./user-task-ui
     container_name: "user-task-ui"
     image: user-task-ui:latest
     ports:
-      - 8000:80
+      - 9000:80

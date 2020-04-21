@@ -16,7 +16,7 @@ To start the application, make sure you have docker installed, then navigate to 
 ```
 
 Once the docker compose is up :
-- User-task-ui can be accessed on `http://localhost:8000`
-- User-task-service actuator can be accessed on  `http://localhost:8080/actuator`
-- Api documentation (swagger-ui) `http://localhost:8080/swagger-ui.html`
+- User-task-ui can be accessed on `http://localhost:9000`
+- User-task-service actuator can be aKccessed on  `http://localhost:9080/actuator`
+- Api documentation (swagger-ui) `http://localhost:9080/swagger-ui.html`
 
