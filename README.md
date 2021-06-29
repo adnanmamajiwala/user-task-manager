@@ -7,7 +7,7 @@ This repository comprises of two git submodules
 
 To clone the repository with the submodules:
 ```
-    git clone -recurse-submodule https://github.com/adnanmamajiwala/user-task-manager.git
+    git clone --recurse-submodule https://github.com/adnanmamajiwala/user-task-manager.git
 ``` 
 
 To start the application, make sure you have docker installed, then navigate to the cloned repository location and run:
